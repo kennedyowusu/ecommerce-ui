@@ -8,9 +8,8 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [Hello world- ](#hello-world--)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
+
+  - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -24,20 +23,21 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
+
   <div align="center">
     <h3><b>FLUTTER ECOMMERCE UI</b></h3>
   </div>
 
 <!-- PROJECT DESCRIPTION -->
 
-# HOTEL BOOKING APP <a name="about-project"></a>
+# FLUTTER ECOMMERCE Ui <a name="about-project"></a>
 
-**FLUTTER ECOMMERCE Ui** Learn to create a complete E-Commerce App in Flutter. Splash Screen, Onboarding Screens, User Authentications, Fetch products by categories, and read descriptions. Enhance your proficiency in application development and craft a seamless shopping interface!
+Learn to create a complete E-Commerce App in Flutter. Splash Screen, Onboarding Screens, User Authentications, Fetch products by categories, and read descriptions. Enhance your proficiency in application development and craft a seamless shopping interface!
 .
 
 ## ScreenShots of the APP
 
-![Splash](./src/Assets/b.png)
+![Thumbnail](assets/screenshort/Thumbail.png)
 
 ## Design <a name="built-with">
 
@@ -60,7 +60,7 @@
 ### Demo User
 
 - Email Address: kobicypher@test.com
-- Password : 123456
+- Password: 123456
 
 <!-- Key Features -->
 
