@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# FLUTTER ECOMMERCE Ui <a name="about-project"></a>
+# FLUTTER ECOMMERCE UI <a name="about-project"></a>
 
 Learn to create a complete E-Commerce App in Flutter. Splash Screen, Onboarding Screens, User Authentications, Fetch products by categories, and read descriptions. Enhance your proficiency in application development and craft a seamless shopping interface!
 .
