@@ -1,0 +1,11 @@
+const String onboardingImage1 = 'assets/image1.png';
+const String onboardingImage2 = 'assets/image2.png';
+const String onboardingImage3 = 'assets/image3.png';
+const String logo = 'assets/logo.png';
+const String shirt = 'assets/shirt.png';
+const String jacket = 'assets/suit.png';
+const String jeans = 'assets/suite.png';
+const String tshirt = 'assets/t-shirt.png';
+const String dress = 'assets/dress.png';
+const String profile = 'assets/profile.png';
+const String shoe = 'assets/images/shoe1.png';
